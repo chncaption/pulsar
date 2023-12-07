@@ -29,9 +29,9 @@
     </parent>
 
     <properties>
-        <alluxio.version>2.7.3</alluxio.version>
+        <alluxio.version>307</alluxio.version>
         <metrics.version>4.1.11</metrics.version>
-        <grpc.version>1.37.0</grpc.version>
+        <grpc.version>1.60.0</grpc.version>
     </properties>
 
     <artifactId>pulsar-io-alluxio</artifactId>
