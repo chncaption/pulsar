@@ -144,7 +144,7 @@ flexible messaging model and an intuitive client API.</description>
     <bouncycastle.bc-fips.version>1.0.2.3</bouncycastle.bc-fips.version>
     <jackson.version>2.13.4.20221013</jackson.version>
     <reflections.version>0.9.11</reflections.version>
-    <swagger.version>1.6.2</swagger.version>
+    <swagger.version>1.6.12</swagger.version>
     <puppycrawl.checkstyle.version>8.37</puppycrawl.checkstyle.version>
     <docker-maven.version>0.40.2</docker-maven.version>
     <docker.verbose>true</docker.verbose>
@@ -1932,8 +1932,8 @@ flexible messaging model and an intuitive client API.</description>
         <test.additional.args/>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <pulsar.broker.compiler.release></pulsar.broker.compiler.release>
-        <pulsar.client.compiler.release></pulsar.client.compiler.release>
+        <pulsar.broker.compiler.release/>
+        <pulsar.client.compiler.release/>
       </properties>
     </profile>
     <profile>
