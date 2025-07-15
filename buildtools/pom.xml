@@ -42,7 +42,7 @@
     <log4j2.version>2.18.0</log4j2.version>
     <slf4j.version>1.7.32</slf4j.version>
     <testng.version>7.7.0</testng.version>
-    <commons-lang3.version>3.11</commons-lang3.version>
+    <commons-lang3.version>3.18.0</commons-lang3.version>
     <license-maven-plugin.version>4.1</license-maven-plugin.version>
     <maven-shade-plugin.version>3.4.0</maven-shade-plugin.version>
     <puppycrawl.checkstyle.version>8.37</puppycrawl.checkstyle.version>
